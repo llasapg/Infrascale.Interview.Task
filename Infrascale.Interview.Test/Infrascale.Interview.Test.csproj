@@ -15,4 +15,7 @@
   <ItemGroup>
     <Folder Include="UnitTests\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Infrascale.Interview.Task\Infrascale.Interview.Task.csproj" />
+  </ItemGroup>
 </Project>
