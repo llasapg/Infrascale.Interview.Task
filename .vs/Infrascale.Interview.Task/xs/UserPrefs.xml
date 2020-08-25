@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrascale.Interview.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="Infrascale.Interview.Task/Class1.cs" Line="1" Column="1" />
+      <File FileName="Infrascale.Interview.Test/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Infrascale.Interview.Task" expanded="True">
+            <Node name="Infrascale.Interview.Task" expanded="True" />
+            <Node name="Infrascale.Interview.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Infrascale.Interview.Task FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Infrascale.Interview.Test FirstBuild="True" />
+</Properties>
